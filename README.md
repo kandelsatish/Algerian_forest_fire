@@ -13,8 +13,8 @@ This project focuses on analyzing the Algerian Forest Fire dataset to predict th
 * Results
 
 
-### How to Run
-Dataset Overview
+
+### Dataset Overview
 The dataset contains meteorological and forest fire data such as temperature, humidity, wind speed, and rainfall. The goal is to use these features to predict the extent of the burned area.
 
 ### Data Preprocessing
